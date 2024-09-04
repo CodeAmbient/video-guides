@@ -11,5 +11,5 @@
 - [VSpaceCode.whichkey](https://marketplace.visualstudio.com/items?itemName=VSpaceCode.whichkey)
 
 ## Copy my settings and keybinds
-- [settings.json](01-turning-vscode-into-neovim/settings.json)
-- [keybindings.json](01-turning-vscode-into-neovim/keybindings.json)
+- [settings.json](settings.json)
+- [keybindings.json](keybindings.json)
